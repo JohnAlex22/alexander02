@@ -1,0 +1,6 @@
+Ejercicio varias tablas: La condición de salida debe ser mientras tabla sea diferente de cero. 
+Si una tabla es negativa, igual se debe calcular, y no debe finalizar con un return.
+
+No ha utilizado correctamente el archivo .gitignore
+
+Calificación: 2.0/3.0
